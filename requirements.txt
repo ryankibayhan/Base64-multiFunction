@@ -2,3 +2,4 @@ python==3.x
 pip3
 pip install pybase package
 pip install base64 package
+pip install pyfiglet 
