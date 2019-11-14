@@ -27,4 +27,5 @@ chmod +x 64base_gen.py
 ```
 python3 64base_gen.py
 ```
+Read requirements.txt for installing necessary packages
 Ready to GO!
