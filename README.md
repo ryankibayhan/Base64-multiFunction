@@ -1,5 +1,7 @@
 # Base64 Encoder-Decoder Tool v1.0 by RYB
 
+![Base64-Logo](https://raw.githubusercontent.com/ryankibayhan/Base64-multiFunction/master/b64_fb.png)
+
 
 
 ## Features
